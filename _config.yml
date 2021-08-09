@@ -21,7 +21,7 @@ title                    : "No Title👻" # Meta 태그에 들어가는 영역 ,
 title_separator          : "-"
 subtitle                 : "제목은 다음기회에🤗🤗" # site tagline that appears below site title in masthead
 name                     : "N년차 대학원생🎓"
-description              : "뭘 올릴지 모르겠지만 일단 만들어 봤습니다. 블로그!😁"
+description              : "과연 무엇을 올리게 될 것인가.😮"
 url                      : https://yulhwakim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /blog # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
