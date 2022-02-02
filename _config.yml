@@ -12,22 +12,22 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "No Title👻" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
+title                    : "AI & VLSI" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
 title_separator          : "-"
-subtitle                 : "제목은 다음기회에🤗🤗" # site tagline that appears below site title in masthead
-name                     : "N년차 대학원생🎓"
-description              : "과연 무엇을 올리게 될 것인가.😮"
+subtitle                 : "인공지능 알고리즘 및 가속기 하드웨어 디자인" # site tagline that appears below site title in masthead
+name                     : "김율화"
+description              : "Deep Learning, VLSI와 관련된 컨텐츠를 올립니다."
 url                      : https://yulhwakim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /blog # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "제목없는 블로그" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "AI & VLSI" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "🎓N년차 대학원생"
+  name             : "김율화"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "뭘 올릴지 모르겠지만 일단 만들어 봤습니다. 블로그!😁"
+  bio              : "인공지능 알고리즘 및 가속기 하드웨어 디자인에 관심이 많습니다."
   location         : "Republic of Korea"
   email            :
   links:
